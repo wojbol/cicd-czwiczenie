@@ -1,0 +1,24 @@
+{
+  "name": "cicd-czwiczenie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojbol/cicd-czwiczenie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wojbol/cicd-czwiczenie/issues"
+  },
+  "homepage": "https://github.com/wojbol/cicd-czwiczenie#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.11",
+    "serve": "^14.2.8"
+  }
+}
